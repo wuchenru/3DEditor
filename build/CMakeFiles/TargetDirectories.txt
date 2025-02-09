@@ -1,0 +1,3 @@
+/Users/chenruwu/Jobs Application/Ansys C++ R&D Rahul/3DEditor/3DEditor/build/CMakeFiles/simple3deditor.dir
+/Users/chenruwu/Jobs Application/Ansys C++ R&D Rahul/3DEditor/3DEditor/build/CMakeFiles/edit_cache.dir
+/Users/chenruwu/Jobs Application/Ansys C++ R&D Rahul/3DEditor/3DEditor/build/CMakeFiles/rebuild_cache.dir
